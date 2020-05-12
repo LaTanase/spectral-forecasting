@@ -1,4 +1,5 @@
 Laurentiu Tanase 1241F
+Daniel Petrica 1241F
 
 ![Screenshot1](Screenshot_1.JPG)
 ![Screenshot2](Screenshot_2.JPG)
